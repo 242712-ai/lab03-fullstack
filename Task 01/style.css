@@ -1,0 +1,73 @@
+
+/* Page Background */
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+
+/* Dashboard Header */
+.dashboard-header {
+    background-color: #0d6efd;
+    color: white;
+    padding: 25px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+}
+
+.dashboard-header h1 {
+    margin-bottom: 10px;
+}
+
+
+/* Student Cards */
+.student-card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Performance Boxes */
+.performance-box {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.performance-box h6 {
+    color: #555;
+}
+
+.performance-box h3 {
+    color: #0d6efd;
+}
+
+
+/* Attendance Progress Bar */
+.progress {
+    height: 15px;
+}
+
+
+/* Result Card */
+.result-card {
+    padding: 30px;
+    border-radius: 12px;
+    color: white;
+}
+
+.result-card h2 {
+    margin-bottom: 20px;
+}
+
+.result-card h3 {
+    font-size: 30px;
+}
+
+.result-card h4 {
+    margin: 15px 0;
+}
+
